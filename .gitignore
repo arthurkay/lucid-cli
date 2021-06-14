@@ -1,0 +1,4 @@
+lucid
+*.bin
+*.test
+*.prof
