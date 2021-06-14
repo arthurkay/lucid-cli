@@ -57,4 +57,4 @@ The application for both the CLI and the actual framework are still in active de
 
 * [Lucid CLI](https://github.com/arthurkay/lucid)
 
-* [Lucid CLI](https://github.com/arthurkay/lucid-framework)
+* [Lucid Framework](https://github.com/arthurkay/lucid-framework)
