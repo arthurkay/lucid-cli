@@ -1,7 +1,7 @@
 # Lucid Framework
 
 [![license](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/arthurkay/lucid/blob/master/LICENSE)
-[![Go Report Card](https://goreportcard.com/badge/github.com/arthurkay/gopherchain)](https://goreportcard.com/report/github.com/arthurkay/lucid)
+[![Go Report Card](https://goreportcard.com/badge/github.com/arthurkay/lucid)](https://goreportcard.com/report/github.com/arthurkay/lucid)
 
 # Introduction
 
