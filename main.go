@@ -4,14 +4,14 @@ import (
 	"log"
 	"os"
 
-	"github.com/arthurkay/lucid/cmd"
+	"github.com/arthurkay/lucid-cli/cmd"
 	"github.com/urfave/cli/v2"
 )
 
 func main() {
 	lucid := &cli.App{
-		Name:        "Lucid CLI",
-		Usage:       "Lucid Framework",
+		Name:        "lucid-cli CLI",
+		Usage:       "lucid-cli Framework",
 		Version:     "v0.0.0-alpha",
 		HideVersion: true,
 		Flags:       []cli.Flag{},
@@ -26,6 +26,6 @@ func main() {
 
 	err := lucid.Run(os.Args)
 	if err != nil {
-		log.Fatalf("Unable to start Lucid CLI because, %v", err)
+		log.Fatalf("Unable to start lucid-cli CLI because, %v", err)
 	}
 }

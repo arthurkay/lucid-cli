@@ -11,7 +11,7 @@ func init() {
 		{
 			Name:    "init",
 			Aliases: []string{"i"},
-			Usage:   "Creates Lucid framework boilerplate",
+			Usage:   "Creates lucid-cli framework boilerplate",
 			UsageText: `Creating the framework's boiler plate template without giving a directory will initialise the application code in the current directory.
 			If you need to define your own path, you'll need to pass in the -d flag`,
 			Flags: []cli.Flag{

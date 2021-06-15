@@ -1,13 +1,13 @@
-# Lucid Framework
+# lucid-cli Framework
 
-[![license](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/arthurkay/lucid/blob/master/LICENSE)
-[![Go Report Card](https://goreportcard.com/badge/github.com/arthurkay/lucid)](https://goreportcard.com/report/github.com/arthurkay/lucid)
+[![license](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/arthurkay/lucid-cli/blob/master/LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/github.com/arthurkay/lucid-cli)](https://goreportcard.com/report/github.com/arthurkay/lucid-cli)
 
 # Introduction
 
-LUCID is a golang backend framework. The frameowrk is meant to address the issue of having applications that all have different code structures.
+lucid-cli is a golang backend framework. The frameowrk is meant to address the issue of having applications that all have different code structures.
 
-The lucid cli tool is there to make the generation of the boiler plate code super easy.
+The lucid-cli cli tool is there to make the generation of the boiler plate code super easy.
 
 The application architecture will take the form of:
 
@@ -46,15 +46,15 @@ For example, the backend uses `api.go` for API routes and `web.go` for web based
 The `utils` directory is meant for storing helper function. These functions can be as simple as a function to handle error responses to more comples logic of data mangling.
 
 
-# Lucid CLI
+# lucid-cli CLI
 
-The cli tool for generation and managing of Lucid app implementations.
+The cli tool for generation and managing of lucid-cli app implementations.
 
 
 # Project Status
 
 The application for both the CLI and the actual framework are still in active development.
 
-* [Lucid CLI](https://github.com/arthurkay/lucid)
+* [lucid-cli CLI](https://github.com/arthurkay/lucid-cli)
 
-* [Lucid Framework](https://github.com/arthurkay/lucid-framework)
+* [lucid-cli Framework](https://github.com/arthurkay/lucid)

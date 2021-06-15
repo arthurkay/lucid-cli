@@ -1,4 +1,4 @@
-module github.com/arthurkay/lucid
+module github.com/arthurkay/lucid-cli
 
 go 1.16
 

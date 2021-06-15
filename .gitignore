@@ -1,4 +1,4 @@
-lucid
+lucid-cli
 *.bin
 *.test
 *.prof
